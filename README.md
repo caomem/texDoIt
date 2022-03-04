@@ -5,7 +5,7 @@ I recommend to copy the file in /bin directory, with
 
 ```shell
 chmod +x texdoit.sh
-sudo cp texdoit /bin/texdoit
+sudo cp texdoit.sh /bin/texdoit
 ```
 
 Then simply say: Tex, do it! 

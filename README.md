@@ -6,7 +6,7 @@ I recommend to copy the file in /bin directory, with
 ```shell
 wget https://raw.githubusercontent.com/caomem/texDoIt/master/texdoit.sh
 chmod +x texdoit.sh
-sudo cp texdoit.sh /bin/texdoit
+sudo cp texdoit.sh /usr/bin/texdoit
 ```
 
 Then simply say: Tex, do it! 

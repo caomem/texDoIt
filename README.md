@@ -16,7 +16,7 @@ texdoit "\frac{2}{2}" output.png
 ```
 
 ## ToDo list
-[ ] List the dependeces in README
-[ ] Create a install inscript (like JILL's installer script)
-[ ] Create a -o option to auto open the file (xdg-open in linux, open in mac)
-[ ] Create a -c option to auto copy the new file
+1. [ ] List the dependeces in README
+2. [ ] Create a install inscript (like JILL's installer script)
+3. [ ] Create a -o option to auto open the file (xdg-open in linux, open in mac)
+4. [ ] Create a -c option to auto copy the new file
